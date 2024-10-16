@@ -1,0 +1,14 @@
+h2{
+    Color:chocolate
+}
+p{
+    font-family:  fantasy;
+}
+th,td {
+    border: 2px solid blue;
+    padding: 100px;
+}
+table{
+    width: 100px;
+    border-collapse: collapse;
+}
